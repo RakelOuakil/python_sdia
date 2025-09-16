@@ -9,7 +9,7 @@ dask
 multiprocess
 matplotlib
 seaborn
-nb_conda
+
 urllib3
 regex
 beautifulsoup4
