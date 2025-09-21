@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08b7b936-deb4-4c9b-b7b2-fa302da91a91" name="Changes" comment="partie Arithmetic et debut Lists">
-      <change beforePath="$PROJECT_DIR$/Labs/Lab1/lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab1/lab1.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="08b7b936-deb4-4c9b-b7b2-fa302da91a91" name="Changes" comment="add conditions, set and list" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,31 @@
       <option name="project" value="LOCAL" />
       <updated>1758016648100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add conditions, set and list">
+      <option name="closed" value="true" />
+      <created>1758476958830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758476958830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add conditions, set and list">
+      <option name="closed" value="true" />
+      <created>1758488292526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758488292526</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add conditions, set and list">
+      <option name="closed" value="true" />
+      <created>1758488882036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758488882036</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="partie Arithmetic et debut Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="partie Arithmetic et debut Lists" />
+    <MESSAGE value="add conditions, set and list" />
+    <option name="LAST_COMMIT_MESSAGE" value="add conditions, set and list" />
   </component>
 </project>
